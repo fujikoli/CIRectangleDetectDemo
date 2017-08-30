@@ -1,0 +1,2 @@
+# CIRectangleDetectDemo
+IOS使用CIRectangleFeature进行实时矩形检测
